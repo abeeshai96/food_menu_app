@@ -1,0 +1,2 @@
+npm install (to download the node modules)
+npm start (give 'Y', when asks for expo-cli install)
